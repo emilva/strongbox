@@ -10,6 +10,7 @@
   <a title="Slack Status" href="https://slackin-bjmwohmllu.now.sh">
     <img src="https://slackin-bjmwohmllu.now.sh/badge.svg">
   </a>
+<a href="https://app.fossa.io/projects/git%2Bgithub.com%2Femilva%2Fstrongbox?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.io/api/projects/git%2Bgithub.com%2Femilva%2Fstrongbox.svg?type=shield"/></a>
   <a href="https://snyk.io/test/github/schibsted/strongbox"><img src="https://snyk.io/test/github/schibsted/strongbox/badge.svg" alt="Known Vulnerabilities" data-canonical-src="https://snyk.io/test/github/schibsted/strongbox" style="max-width:100%;"></a>
 </p>
 
@@ -39,3 +40,6 @@ distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Femilva%2Fstrongbox.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Femilva%2Fstrongbox?ref=badge_large)
